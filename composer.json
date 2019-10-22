@@ -1,7 +1,7 @@
 {
     "name": "progjp/monobank-api",
     "description": "PHP client for Monobank API",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
